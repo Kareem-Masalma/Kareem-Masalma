@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareem-masalma" alt="kareem-masalma" /></a> </p>
 
-- 🌱 I’m currently learning **AI using Python, Algorithms, Software Engineering and Encryption Theories.**
-
+- 🌱 I’m currently learning **Web Services, Quality Assurance, Mobile Development**
+- 💻 Experinced in **Web Development, Data Structures and Algorithms, Software Engineering**
 - 👨‍💻 All of my projects are available at [https://github.com/Kareem-Masalma?tab=repositories](https://github.com/Kareem-Masalma?tab=repositories)
 
-- 📫 How to reach me **1220535@student.birzeit.edu or kareemmasalmah6@gmail.com**
+- 📫 How to reach me **1220535@student.birzeit.edu or kareemmasalma273@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareem-masalma" alt="kareem-masalma" /></a> </p>
 
-- 🌱 I’m currently **Backend Intern at EXALT Technologies**
+- 🌱 I’m currently **Intern at Harri**
 - 💻 Experinced in **Web Development, Mobile Development, Web Services, Quality Assurance, Data Structures and Algorithms**
 - 👨‍💻 All of my projects are available at [https://github.com/Kareem-Masalma?tab=repositories](https://github.com/Kareem-Masalma?tab=repositories)
 
-- 📫 How to reach me **1220535@student.birzeit.edu or kareemmasalma273@gmail.com**
+- 📫 How to reach me **kareemmasalma273@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

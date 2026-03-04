@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareem-masalma" alt="kareem-masalma" /></a> </p>
 
-- 🌱 I’m currently **Intern at Harri**
+- 🌱 I’m currently **Full Stack Engineer at FALAK Turnkey Solutions**
 - 💻 Experinced in **Web Development, Mobile Development, Web Services, Quality Assurance, Data Structures and Algorithms**
 - 👨‍💻 All of my projects are available at [https://github.com/Kareem-Masalma?tab=repositories](https://github.com/Kareem-Masalma?tab=repositories)
 
